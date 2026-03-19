@@ -6,7 +6,7 @@ const projects = [
     description:
       "A modern, responsive personal portfolio built with Next.js and Tailwind CSS featuring dark theme, glassmorphism UI, and smooth animations.",
     tags: ["Next.js", "Tailwind CSS", "React"],
-    github: "https://github.com/ajeetmishra",
+    github: "https://github.com/ajeetmishra-dev",
     gradient: "from-purple-500/20 to-pink-500/20",
     borderGlow: "group-hover:shadow-purple-500/10",
   },
@@ -15,7 +15,7 @@ const projects = [
     description:
       "A weather application that fetches real-time data from a weather API, displaying current conditions and forecasts with a clean interface.",
     tags: ["HTML", "CSS", "JavaScript", "API"],
-    github: "https://github.com/ajeetmishra",
+    github: "https://github.com/ajeetmishra-dev",
     gradient: "from-cyan-500/20 to-blue-500/20",
     borderGlow: "group-hover:shadow-cyan-500/10",
   },
@@ -24,7 +24,7 @@ const projects = [
     description:
       "A to-do list application with features like task creation, completion tracking, and local storage persistence using vanilla JavaScript.",
     tags: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/ajeetmishra",
+    github: "https://github.com/ajeetmishra-dev",
     gradient: "from-green-500/20 to-emerald-500/20",
     borderGlow: "group-hover:shadow-green-500/10",
   },

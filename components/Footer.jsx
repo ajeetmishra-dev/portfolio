@@ -16,7 +16,7 @@ export default function Footer() {
           {/* Social links */}
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/ajeetmishra"
+              href="https://github.com/ajeetmishra-dev"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl bg-white/5 border border-white/5 text-gray-400 hover:text-white hover:bg-white/10 hover:border-white/10 transition-all duration-300 hover:scale-110"
@@ -27,7 +27,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://linkedin.com/in/ajeetmishra"
+              href="https://www.linkedin.com/in/ajeet-mishra-973a78293/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl bg-white/5 border border-white/5 text-gray-400 hover:text-white hover:bg-white/10 hover:border-white/10 transition-all duration-300 hover:scale-110"
